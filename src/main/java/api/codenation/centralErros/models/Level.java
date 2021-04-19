@@ -26,5 +26,5 @@ public class Level {
     @JsonIgnore
     private List<Event> eventList;
 
-    //    Level(error, warning, info),
+//    Level(error, warning, info),
 }

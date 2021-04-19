@@ -1,6 +1,5 @@
 package api.codenation.centralErros.controllers;
 
-import api.codenation.centralErros.models.Level;
 import api.codenation.centralErros.models.Origin;
 import api.codenation.centralErros.services.OriginServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;

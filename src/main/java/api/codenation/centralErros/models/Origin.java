@@ -26,5 +26,5 @@ public class Origin {
     @JsonIgnore
     private List<Event> eventList;
 
-    //    ORIGEM(Sistema ou Serviço que originou o evento),
+//    ORIGEM(Sistema ou Serviço que originou o evento),
 }

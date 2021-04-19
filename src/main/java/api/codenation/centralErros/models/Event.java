@@ -42,10 +42,12 @@ public class Event {
     @JoinColumn(name = "origin_id")
     private Origin origin;
 
-    //    Level(error, warning, info),
-//    Descrição do Evento,
-//    LOG do Evento,
-//    ORIGEM(Sistema ou Serviço que originou o evento),
-//    DATA(Data do evento),
-//    QUANTIDADE(Quantidade de Eventos de mesmo tipo)
+/*
+    Level(error, warning, info),
+    Descrição do Evento,
+    LOG do Evento,
+    ORIGEM(Sistema ou Serviço que originou o evento),
+    DATA(Data do evento),
+    QUANTIDADE(Quantidade de Eventos de mesmo tipo)
+ */
 }
